@@ -9,7 +9,7 @@
 
 A Retrieval-Augmented Generation (RAG) medical Q&A assistant. Upload a medical PDF, and the assistant answers questions strictly from that document using AWS Bedrock (Llama 3) for generation and embeddings, with FAISS for vector search.
 
-**Disclaimer:** Educational tool only — not a substitute for professional medical advice.
+**Disclaimer:** Educational tool only - not a substitute for professional medical advice.
 
 ## Screenshots
 
