@@ -31,6 +31,8 @@ A Retrieval-Augmented Generation (RAG) medical Q&A assistant. Upload a medical P
 4. The prompt is sent to a Bedrock LLM (Llama 3), which is instructed to answer only from the provided context and say "I don't know" if the answer isn't present.
 5. The answer and source document metadata are returned to the frontend and displayed in the chat.
 
+---
+
 ## Tech stack
 
 - **Backend:** FastAPI
