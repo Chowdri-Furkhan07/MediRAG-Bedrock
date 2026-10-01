@@ -11,6 +11,8 @@ A Retrieval-Augmented Generation (RAG) medical Q&A assistant. Upload a medical P
 
 **Disclaimer:** Educational tool only - not a substitute for professional medical advice.
 
+---
+
 ## Screenshots
 
 | Upload | Indexed Document |
