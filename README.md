@@ -110,7 +110,7 @@ The Streamlit app expects the backend at `http://127.0.0.1:8000` (see `API_URL` 
 
 1. Open the Streamlit app.
 2. Upload a medical PDF from the sidebar and click **Upload & Index**.
-3. Ask questions in the chat input — answers are generated only from the uploaded document, with "I don't know" returned for anything outside its content.
+3. Ask questions in the chat input - answers are generated only from the uploaded document, with "I don't know" returned for anything outside its content.
 
 ## Author
 
