@@ -93,7 +93,7 @@ uvicorn app.main:app --reload
 The API runs at `http://127.0.0.1:8000`, exposing:
 
 - `POST /upload` - upload and index a PDF
-- `POST /ask?query=...` — ask a question against the indexed document
+- `POST /ask?query=...` - ask a question against the indexed document
 
 ### 4. Run the frontend
 
