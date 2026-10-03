@@ -1,1 +1,19 @@
+fastapi
+uvicorn
+
+boto3
+
+langchain
+langchain-community
+
+faiss-cpu
+pypdf
+
+python-multipart
+python-dotenv
+
+streamlit
+requests
+
+
 
